@@ -1,3 +1,2 @@
 # Sales_YearExperience
-Датасет: https://www.kaggle.com/datasets/karthickveerakumar/salary-
-data-simple-linear-regression
+Датасет: [Salary_Data](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression)
